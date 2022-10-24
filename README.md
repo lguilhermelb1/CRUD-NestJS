@@ -15,5 +15,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Author:
+## Author
+```bash
 Luis Guilherme (lguilhermelb1)
+```
